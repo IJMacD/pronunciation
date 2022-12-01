@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pronunciation/static/css/main.413ee428.css",
+    "main.js": "/pronunciation/static/js/main.5a44a3eb.js",
+    "index.html": "/pronunciation/index.html",
+    "main.413ee428.css.map": "/pronunciation/static/css/main.413ee428.css.map",
+    "main.5a44a3eb.js.map": "/pronunciation/static/js/main.5a44a3eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.413ee428.css",
+    "static/js/main.5a44a3eb.js"
+  ]
+}
